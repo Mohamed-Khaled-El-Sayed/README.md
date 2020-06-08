@@ -6,7 +6,7 @@
 
 * **M & M is a new website for editing photos and always under update to add many new features.**
 
-Here you are the archtict of Your LIFE!
+ Here you are the archtict of Your LIFE!
 
 # Table of Contents
 
