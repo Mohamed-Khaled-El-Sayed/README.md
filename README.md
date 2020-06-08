@@ -10,7 +10,7 @@ Here you are the archtict of Your LIFE!
 
 # Table of Contents
 
-1. [Project Features](#ProjectFeatures)
+1. [Project Features](#Project-Features)
 2. [Tech](#Tech)
 3. [Requirements](#Requirements)
 
@@ -88,4 +88,4 @@ context.putImageData(imageData,0,0) ;
  
 * NetBeans needs [XAMPP](https://www.apachefriends.org/download.html)  to run PHP . - XAMPP is the most famous PHP and Perl development environment. It helps developers to setup a local server which is fully equipped with all necessary tools and helps them to work at high speed. It is a totally free, very simple in installing Apache distribution containing Maria DB (MySQL), PHP, and Perl. The set up of the the package is extremely easy for multiple operating systems like Windows, Linux, Mac OS X and Solaris.
 
-[TOP](#TableofContents)
+[TOP](#Table-of-Contents)
