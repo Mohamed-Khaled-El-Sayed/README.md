@@ -53,9 +53,10 @@ This project uses four of the web programming languages :
 var canvas = document.getElementById("myCanvas");
 var context = canvas.getContext("2d");
 var imageObj = document.getElementById("scream"); 
+context.drawImage(imageObj, 0, 0, imageObj.width, imageObj.height);
 var imageData = context.getImageData(0, 0, imageObj.width, imageObj.height);
 var data = imageData.data;
-      
+
    for(var i = 0; i < data.length; i += 4)
          {
           var brightness =  data[i] + data[i + 1] +  data[i + 2];
@@ -66,7 +67,7 @@ var data = imageData.data;
           data[i + 1] = brightness / 3 ;
           // blue
           data[i + 2] = brightness / 3 ;
-         } 
+         }
          
 context.putImageData(imageData,0,0) ;
 ```
