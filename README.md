@@ -8,6 +8,12 @@
 
 Here you are the archtict of Your LIFE!
 
+# Table of Contents
+
+1. [Project Features](#Project Features)
+2. [Tech](#Tech)
+3. [Tech](#Requirements)
+
 ## Project Features
 
   * Upload an image file and see the magic happens on it .
