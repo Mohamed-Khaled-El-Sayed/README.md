@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-* M & M is a new website for editing photos and always under update to add many new features.
+* **M & M is a new website for editing photos and always under update to add many new features.**
 Here you are the archtict of Your LIFE!
 
 ## Project Features
@@ -46,7 +46,31 @@ This project uses four of the web programming languages :
  > PHP : For uploading the image file to the server .
  
  > JavaScript : For filters codes . 
+ 
+ For example a simple grayscale filter using Javascript  :
+ 
+ ```javascript
+var canvas = document.getElementById("myCanvas");
+var context = canvas.getContext("2d");
+var imageObj = document.getElementById("scream"); 
+var imageData = context.getImageData(0, 0, imageObj.width, imageObj.height);
+var data = imageData.data;
+      
+   for(var i = 0; i < data.length; i += 4)
+         {
+          var brightness =  data[i] + data[i + 1] +  data[i + 2];
 
+          // red
+          data[i] = brightness / 3 ;
+          // green
+          data[i + 1] = brightness / 3 ;
+          // blue
+          data[i + 2] = brightness / 3 ;
+         } 
+         
+context.putImageData(imageData,0,0) ;
+```
+ 
 ## Requirements
 
  Any Web Development IDE that supports HTML5 , CSS , JavaScript and PHP .
