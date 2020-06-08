@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-### M & M is a new website for editing photos and always under update to add many new features.
+* M & M is a new website for editing photos and always under update to add many new features.
 Here you are the archtict of Your LIFE!
 
 ## Project Features
