@@ -11,6 +11,10 @@
 # Project Team
 Mohamed Khaled El-Sayed[mohamed.khaled.shika@gmail.com](mohamed.khaled.shika@gmail.com)
 
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
+
 # Table of Contents
 
 1. [Project Features](#Project-Features)
