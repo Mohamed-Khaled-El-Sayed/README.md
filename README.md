@@ -12,7 +12,7 @@ Here you are the archtict of Your LIFE!
 
 1. [Project Features](#Project Features)
 2. [Tech](#Tech)
-3. [Tech](#Requirements)
+3. [Requirements](#Requirements)
 
 ## Project Features
 
