@@ -9,26 +9,27 @@ Here you are the archtict of Your LIFE!
 
 ## Project Features
 
-  > Upload a photo and see the magic happens on it .
+  * Upload a photo and see the magic happens on it .
+  > Only jpg,jpeg and png file with maximum size of 10 MB is allowed.
   
   [![N|](2.png)]()
   [![N|](3.png)]()
 
-  > GrayScales .
+  * GrayScales .
   
   [![N|](4.png)]()
   [![N|](5.png)]()
 
-  > warm .
+  * warm .
   
   [![N|](9.png)]()
   [![N|](10.png)]()
 
-  > cool .
+  * cool .
   
   [![N|](6.png)]()
   
-  > More filters in our website .
+  * More filters in our website .
   
   [![N|](7.png)]()
   [![N|](8.png)]()
