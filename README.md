@@ -11,7 +11,7 @@
 # Project Team
 Mohamed Khaled El-Sayed[mohamed.khaled.shika@gmail.com](mohamed.khaled.shika@gmail.com)
 
-| First Header  | Second Header |
+ | Name  | E-Mail |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
