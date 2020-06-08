@@ -9,12 +9,11 @@
  Here you are the archtict of Your LIFE!
  
 # Project Team
-Mohamed Khaled El-Sayed[mohamed.khaled.shika@gmail.com](mohamed.khaled.shika@gmail.com)
 
  | Name  | E-Mail |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Mohamed Khaled El-Sayed  | mohamed.khaled.shika@gmail.com  |
+| Moataz Shebl  | moatazshebl17@gmail.com  |
 
 # Table of Contents
 
