@@ -56,8 +56,8 @@
 
 This project uses four of the web programming languages :
  
- - M & M Uses HTML5 , CSS for the Front-End styles .
- - M & M Uses JavaScript and PHP for the Back-End functionality .
+ - M & M Uses HTML5 , CSS , and Javascript for the Front-End styles .
+ - M & M Uses PHP for the Back-End functionality .
  > PHP : For uploading the image file to the server .
  
  > JavaScript : For filters codes . 
